@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+ 
+    
+}
+#myClock{
+    text-align: center;
+    font-size: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+   margin-top: 200px;
+}
